@@ -37,7 +37,7 @@ export default function Home() {
     }
   return (
     <Box sx={{
-        backgroundColor:"black",
+        backgroundColor:"lightblue",
         width:"100%",
         height:"100vh",
         alignItems:"center",
